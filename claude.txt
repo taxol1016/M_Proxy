@@ -1,12 +1,12 @@
-- 'DOMAIN-SUFFIX,typeless.com,DIRECT'
-- 'DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com,US'
-- 'DOMAIN-SUFFIX,anthropic.com,US'
-- 'DOMAIN-SUFFIX,claude.ai,US'
-- 'DOMAIN-SUFFIX,claudeusercontent.com,US'
-- 'DOMAIN,cdn.usefathom.com,US'
-- 'DOMAIN-SUFFIX,intercomcdn.com,US'
-- 'DOMAIN,servd-anthropic-website.b-cdn.net,US'
-- 'DOMAIN-SUFFIX,claude.com,US'
-- 'DOMAIN-SUFFIX,code.claude.com,US'
-- 'DOMAIN-SUFFIX,platform.claude.com,US'
-- 'DOMAIN-SUFFIX,clau.de,US'
+DOMAIN-SUFFIX,typeless.com,DIRECT
+DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com,US
+DOMAIN-SUFFIX,anthropic.com,US
+DOMAIN-SUFFIX,claude.ai,US
+DOMAIN-SUFFIX,claudeusercontent.com,US
+DOMAIN,cdn.usefathom.com,US
+DOMAIN-SUFFIX,intercomcdn.com,US
+DOMAIN,servd-anthropic-website.b-cdn.net,US
+DOMAIN-SUFFIX,claude.com,US
+DOMAIN-SUFFIX,code.claude.com,US
+DOMAIN-SUFFIX,platform.claude.com,US
+DOMAIN-SUFFIX,clau.de,US
