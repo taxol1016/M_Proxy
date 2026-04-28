@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,typeless.com
+DOMAIN-SUFFIX,api.bltcy.ai
