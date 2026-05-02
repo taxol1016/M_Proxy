@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,api.bltcy.ai
+DOMAIN,invite.linuxdo.org
