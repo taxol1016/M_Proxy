@@ -1,2 +1,2 @@
 DOMAIN-SUFFIX,epochtimes.com
-DOMAIN-SUFFIX,https://chinadigitaltimes.net/
+DOMAIN-SUFFIX,chinadigitaltimes.net
