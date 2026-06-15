@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,api.bltcy.ai
 DOMAIN,invite.linuxdo.org
+DOMAIN-SUFFIX,news.cn
