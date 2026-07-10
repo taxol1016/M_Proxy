@@ -1,4 +1,9 @@
+# 德语学习网站
 DOMAIN-SUFFIX, dw.com
-DOMAIN-SUFFIX, o2online.de
 DOMAIN-SUFFIX, tagesschau.de
+# 德国通信公司
+DOMAIN-SUFFIX, o2online.de
 DOMAIN-SUFFIX, vodafone.de
+# 德国国家公共广播及电视网
+DOMAIN-SUFFIX, ard.de
+DOMAIN-SUFFIX, zdf.de
