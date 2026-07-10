@@ -1,1 +1,1 @@
-DOMAIN-SUFFIX,ptsplus.tv
+DOMAIN-SUFFIX, ptsplus.tv

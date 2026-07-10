@@ -1,3 +1,4 @@
-DOMAIN-SUFFIX,api.bltcy.ai
-DOMAIN,invite.linuxdo.org
-DOMAIN-SUFFIX,news.cn
+DOMAIN, invite.linuxdo.org
+DOMAIN-SUFFIX, api.bltcy.ai
+DOMAIN-SUFFIX, news.cn
+DOMAIN-SUFFIX, api-huacloud.dev

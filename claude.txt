@@ -1,11 +1,11 @@
-DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claudeusercontent.com
-DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,code.claude.com
-DOMAIN-SUFFIX,platform.claude.com
-DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX, browser-intake-us5-datadoghq.com
+DOMAIN-SUFFIX, anthropic.com
+DOMAIN-SUFFIX, claude.ai
+DOMAIN-SUFFIX, claudeusercontent.com
+DOMAIN, cdn.usefathom.com
+DOMAIN-SUFFIX, intercomcdn.com
+DOMAIN, servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX, claude.com
+DOMAIN-SUFFIX, code.claude.com
+DOMAIN-SUFFIX, platform.claude.com
+DOMAIN-SUFFIX, clau.de
