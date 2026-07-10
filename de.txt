@@ -1,4 +1,4 @@
-o2online.de
-vodafone.de
-dw.com
-tagesschau.de
+DOMAIN-SUFFIX, dw.com
+DOMAIN-SUFFIX, o2online.de
+DOMAIN-SUFFIX, tagesschau.de
+DOMAIN-SUFFIX, vodafone.de
