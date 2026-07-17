@@ -1,2 +1,7 @@
 DOMAIN-SUFFIX, usmartsg.com
 DOMAIN-SUFFIX, usmart8.com
+DOMAIN-SUFFIX, gposts.net
+DOMAIN-SUFFIX, gatedata.org
+DOMAIN-SUFFIX, gateio.im
+DOMAIN-SUFFIX, gateio.live
+DOMAIN-SUFFIX, gate.com
