@@ -2,3 +2,4 @@ DOMAIN, invite.linuxdo.org
 DOMAIN-SUFFIX, api.bltcy.ai
 DOMAIN-SUFFIX, news.cn
 DOMAIN-SUFFIX, api-huacloud.dev
+DOMAIN-SUFFIX, neea.edu.cn
