@@ -1,3 +1,12 @@
+# BBC
 DOMAIN-KEYWORD, uk-live
 DOMAIN-SUFFIX, bbc.co
 DOMAIN-SUFFIX, bbc.com
+
+# LLOYDS英国银行
+DOMAIN-SUFFIX, lloydsbank.co.uk
+DOMAIN-SUFFIX, lloydsbank.com
+DOMAIN-SUFFIX, lloydsbanking.com
+DOMAIN-SUFFIX, lloydsbankinggroup.com
+DOMAIN-SUFFIX, omtrdc.net
+DOMAIN-SUFFIX, qualtrics.com
