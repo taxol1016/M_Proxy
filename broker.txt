@@ -1,7 +1,14 @@
+# 香港盈立
 DOMAIN-SUFFIX, usmartsg.com
 DOMAIN-SUFFIX, usmart8.com
+
+# Gate
 DOMAIN-SUFFIX, gposts.net
 DOMAIN-SUFFIX, gatedata.org
 DOMAIN-SUFFIX, gateio.im
 DOMAIN-SUFFIX, gateio.live
 DOMAIN-SUFFIX, gate.com
+
+# Bitget
+DOMAIN-KEYWORD, bitget
+DOMAIN-SUFFIX, bitgetapp.com
