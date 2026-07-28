@@ -11,4 +11,6 @@ DOMAIN-SUFFIX, gate.com
 
 # Bitget
 DOMAIN-KEYWORD, bitget
+DOMAIN-SUFFIX, bitget.com
 DOMAIN-SUFFIX, bitgetapp.com
+DOMAIN-SUFFIX, bitgetapps.com
