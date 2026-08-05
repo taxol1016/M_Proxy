@@ -15,3 +15,7 @@ DOMAIN-SUFFIX, qualtrics.com
 
 # iFAST英国银行
 DOMAIN-SUFFIX, ifastgb.com
+
+# giffgaff
+DOMAIN-SUFFIX, giffgaff.com
+DOMAIN-SUFFIX, giffgaff.design

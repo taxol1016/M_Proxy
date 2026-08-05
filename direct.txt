@@ -4,3 +4,5 @@ DOMAIN-SUFFIX, news.cn
 DOMAIN-SUFFIX, api-huacloud.dev
 DOMAIN-SUFFIX, api-flowercloud.com
 DOMAIN-SUFFIX, neea.edu.cn
+DOMAIN-SUFFIX, megacheck.net
+DOMAIN-SUFFIX, megacheck.vip
