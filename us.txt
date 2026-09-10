@@ -4,3 +4,4 @@ DOMAIN-SUFFIX, pdfexpert.com
 DOMAIN-SUFFIX, sees.com
 DOMAIN-SUFFIX, ielts-simon.study
 DOMAIN-SUFFIX, addrs.xyz
+DOMAIN-SUFFIX, truthsocial.com
