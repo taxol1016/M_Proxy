@@ -2,6 +2,10 @@
 DOMAIN-SUFFIX, usmartsg.com
 DOMAIN-SUFFIX, usmart8.com
 
+# Hyperliquid
+DOMAIN-KEYWORD, hyperliquid
+DOMAIN-SUFFIX, hyperliquid.xyz
+
 # Gate
 DOMAIN-SUFFIX, gposts.net
 DOMAIN-SUFFIX, gatedata.org
@@ -17,3 +21,16 @@ DOMAIN-SUFFIX, bitgetapps.com
 
 # MEXC
 DOMAIN-KEYWORD, mexc
+
+# Bybit
+DOMAIN, bybit-exchange.github.io
+DOMAIN, bybit.ada.support
+DOMAIN-SUFFIX, bybit-global.com
+DOMAIN-SUFFIX, bybit.biz
+DOMAIN-SUFFIX, bybit.cloud
+DOMAIN-SUFFIX, bybit.com
+DOMAIN-SUFFIX, bybit.eu
+DOMAIN-SUFFIX, bybitgeorgia.ge
+DOMAIN-SUFFIX, bybitglobal.com
+DOMAIN-SUFFIX, jbybit.com
+DOMAIN-SUFFIX, ng-dex.com
