@@ -8,9 +8,29 @@ DOMAIN-SUFFIX, addrs.xyz
 # meta
 DOMAIN-SUFFIX, muse.ai
 
-# schwab
+# schwab（含 tdameritrade / thinkorswim 等旗下平台）
 DOMAIN-SUFFIX, schwab.com
 DOMAIN-SUFFIX, schwabcdn.com
+DOMAIN-SUFFIX, schwabapi.com
+DOMAIN-SUFFIX, schwabplan.com
+DOMAIN-SUFFIX, schwaballiance.com
+DOMAIN-SUFFIX, schwabinstitutional.com
+DOMAIN-SUFFIX, schwabbank.com
+DOMAIN-SUFFIX, schwabfunds.com
+DOMAIN-SUFFIX, schwabassetmanagement.com
+DOMAIN-SUFFIX, schwabpt.com
+DOMAIN-SUFFIX, schwabcharitable.org
+DOMAIN-SUFFIX, charlesschwab.com
+DOMAIN-SUFFIX, aboutschwab.com
+DOMAIN-SUFFIX, schwabnetwork.com
+DOMAIN-SUFFIX, tdameritrade.com
+DOMAIN-SUFFIX, thinkorswim.com
 
-# ibkr
+# ibkr（仅保留一般访问需要的站点；API 文档在 github.io 上）
 DOMAIN-SUFFIX, interactivebrokers.com
+DOMAIN-SUFFIX, ibkr.com
+DOMAIN-SUFFIX, ibkr.info
+DOMAIN-SUFFIX, interactiveadvisors.com
+DOMAIN-SUFFIX, ibkrcampus.com
+DOMAIN-SUFFIX, ibkrguides.com
+DOMAIN, interactivebrokers.github.io

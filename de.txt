@@ -10,18 +10,9 @@ DOMAIN-SUFFIX, vodafone.de
 DOMAIN-SUFFIX, ard.de
 DOMAIN-SUFFIX, zdf.de
 
-# Coinbase 主站及各国站点（含 api./login./help./blog./nft./portal.cloud./international. 等全部子域）
-DOMAIN-KEYWORD, coinbase
+# Coinbase 主站（api./login./wallet./keys./portal.cloud./international. 等子域自动包含）
 DOMAIN-SUFFIX, coinbase.com
 DOMAIN-SUFFIX, coinbase.org
-DOMAIN-SUFFIX, coinbase.co.uk
-DOMAIN-SUFFIX, coinbase.ca
-DOMAIN-SUFFIX, coinbase.de
-DOMAIN-SUFFIX, coinbase.nl
-DOMAIN-SUFFIX, coinbase.ie
-DOMAIN-SUFFIX, coinbase.sg
-DOMAIN-SUFFIX, coinbase.ae
-DOMAIN-SUFFIX, coinbase.com.au
 
 # Coinbase 机构与企业服务
 DOMAIN-SUFFIX, coinbaseprime.com
