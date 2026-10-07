@@ -10,6 +10,7 @@ DOMAIN-SUFFIX, muse.ai
 
 # schwab
 DOMAIN-SUFFIX, schwab.com
+DOMAIN-SUFFIX, schwabcdn.com
 
 # ibkr
 DOMAIN-SUFFIX, interactivebrokers.com
