@@ -34,3 +34,22 @@ DOMAIN-SUFFIX, interactiveadvisors.com
 DOMAIN-SUFFIX, ibkrcampus.com
 DOMAIN-SUFFIX, ibkrguides.com
 DOMAIN, interactivebrokers.github.io
+
+# autodesk（官网 / 账号中心 / 授权与更新服务）
+DOMAIN-SUFFIX, autodesk.com
+DOMAIN-SUFFIX, autodesk.net
+DOMAIN-SUFFIX, autodesk360.com
+
+# 桌面套件（AutoCAD / Revit / Maya / 3ds Max / Inventor / Arnold / ShotGrid）
+DOMAIN-SUFFIX, autocad.com
+DOMAIN-SUFFIX, arnoldrenderer.com
+DOMAIN-SUFFIX, shotgridsoftware.com
+
+# 云端与在线产品（Fusion / BIM 360、ACC / Tinkercad / SketchBook / Instructables）
+DOMAIN-SUFFIX, bim360.com
+DOMAIN-SUFFIX, tinkercad.com
+DOMAIN-SUFFIX, sketchbook.com
+DOMAIN-SUFFIX, instructables.com
+
+# 说明：Fusion/登录还依赖 cloudfront.net、s3.amazonaws.com、pubnub、pndsn 等公共
+# CDN 与推送服务，这些域被大量无关站点共用，不放入本规则，避免误分流。
